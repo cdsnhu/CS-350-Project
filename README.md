@@ -22,5 +22,5 @@ State Machine UML design, electronical skills, Raspberry Pi configuration, embed
 ### How did you make this project maintainable, readable, and adaptable?
 Keep detailed documentation and record what changes have occurred at each revision/iteration.
 Put notes into the python code to help others read how the code should operate.
-Use UNL diagrams to simplify and showcase in layman terms the standard procedure of the code.
+Use UML diagrams to simplify and showcase in layman terms the standard procedure of the code.
 
